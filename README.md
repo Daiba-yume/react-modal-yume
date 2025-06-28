@@ -43,3 +43,7 @@ function App() {
   );
 }
 ```
+
+### Auteur
+
+Daïba Yume :purple_heart:
