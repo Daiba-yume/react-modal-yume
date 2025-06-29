@@ -36,12 +36,14 @@ function App() {
   return (
     <>
       <button onClick={openModal}>Ouvrir la modal</button>
-      <Modal isOpen={isOpen} onClose={closeModal}>
-        <div>Votre contenu ici</div>
+      <Modal isOpen={isOpen} onClose={closeModal} style={{}} overlayStyle={{}}>
+        <h2>Bienvenue !</h2>
+        <p>Ceci est une modale personnalisée.</p>
       </Modal>
     </>
   );
 }
+export default App;
 ```
 
 ### Auteur

@@ -1,6 +1,6 @@
 {
   "name": "react-modal-yume",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "description": "A simple React modal component",
   "files": [
